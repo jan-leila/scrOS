@@ -1,0 +1,25 @@
+{
+  "name": "scros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leyla Becker",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-leila/scros.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jan-leila/scros/issues"
+  },
+  "homepage": "https://github.com/jan-leila/scros#readme",
+  "description": "",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-screeps": "^1.5.0"
+  }
+}
